@@ -103,9 +103,8 @@ h1{
     color: white;
     background-image: url('/images/spotify-icon-white.png');
     background-repeat: no-repeat;
+    background-position: center;
     background-size: 150px;
-    background-position-x: 50%;
-    background-position-y: 50%;
     margin: 30px;
     padding: 50px;
     display: flex;
@@ -128,4 +127,6 @@ h1{
 - yeezy section h2 in one line
 - yeezy section h2 underline
 - change around some font styles 
+
+- MAKE RESPONSIVE, MOBILE FRIENDLY!!! 
 */
